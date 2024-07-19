@@ -19,6 +19,7 @@ A continuación se encuentran recursos repartidos por secciones. Además se esta
 
 ### Libros 📖
 - [Introduction to Machine Learning with Python: A Guide for Data Scientists](https://books.google.cl/books/about/Introduction_to_Machine_Learning_with_Py.html?id=vbQlDQAAQBAJ&source=kp_book_description&redir_esc=y) (I) (🇪🇸)
+- [Los sesgos del algoritmo](https://lapollera.cl/libros/sesgos-algoritmo-ia-etica/) (All) (🇪🇸)
 
 ### Beneficios 🎉
 - [Microsoft/GitHub Student Developer Pack: Data Science & Machine Learning Track](https://education.github.com/experiences/ml_ds) (All) (🇬🇧)
