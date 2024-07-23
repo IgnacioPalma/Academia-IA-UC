@@ -2,6 +2,7 @@
 - [Microsoft: Centro de Aprendizaje de IA](https://learn.microsoft.com/es-es/ai/) (All) (🇪🇸)
 - [Microsoft: Conceptos básicos de IA](https://learn.microsoft.com/es-es/training/modules/get-started-ai-fundamentals/) (P) (🇪🇸)
 - [Microsoft: Exploración de la inteligencia autónoma](https://learn.microsoft.com/es-es/training/modules/explore-autonomous-intelligence/) (P) (🇪🇸)
+- [Microsoft: Adopción de las prácticas y los principios de inteligencia artificial responsables](https://learn.microsoft.com/es-es/training/modules/embrace-responsible-ai-principles-practices/) (All) (🇪🇸)
 
 ### Videos 🎥
 - [Crash Course Artificial Intelligence](https://www.youtube.com/playlist?list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b) (P) (🇬🇧)
