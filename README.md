@@ -12,6 +12,8 @@ A continuación se encuentran recursos repartidos por secciones. Además se esta
 - [Microsoft: Conceptos básicos de IA](https://learn.microsoft.com/es-es/training/modules/get-started-ai-fundamentals/) (P) (🇪🇸)
 - [Microsoft: Aspectos básicos de la IA generativa](https://learn.microsoft.com/es-es/training/modules/fundamentals-generative-ai/) (I) (🇪🇸)
 - [Microsoft: Exploración de la inteligencia autónoma](https://learn.microsoft.com/es-es/training/modules/explore-autonomous-intelligence/) (P) (🇪🇸)
+- [Microsoft: Introducción a Azure OpenAI Service](https://learn.microsoft.com/es-es/training/modules/get-started-openai/) (A) (🇪🇸)
+- [Microsoft: Adopción de las prácticas y los principios de inteligencia artificial responsables](https://learn.microsoft.com/es-es/training/modules/embrace-responsible-ai-principles-practices/) (All) (🇪🇸)
 - [Harvard CS50x: Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2024/) (I) (🇬🇧)
 - [Fast AI: Practical Deep Learning for Coders](https://course.fast.ai/) (I-A) (🇬🇧)
 
