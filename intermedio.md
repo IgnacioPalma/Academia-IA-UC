@@ -1,6 +1,7 @@
 ### Cursos 📚
 - [Microsoft: Centro de Aprendizaje de IA](https://learn.microsoft.com/es-es/ai/) (All) (🇪🇸)
 - [Microsoft: Aspectos básicos de la IA generativa](https://learn.microsoft.com/es-es/training/modules/fundamentals-generative-ai/) (I) (🇪🇸)
+- [Microsoft: Adopción de las prácticas y los principios de inteligencia artificial responsables](https://learn.microsoft.com/es-es/training/modules/embrace-responsible-ai-principles-practices/) (All) (🇪🇸)
 - [Harvard CS50x: Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2024/) (I) (🇬🇧)
 - [Fast AI: Practical Deep Learning for Coders](https://course.fast.ai/) (I-A) (🇬🇧)
 
