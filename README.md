@@ -17,6 +17,9 @@ A continuación se encuentran recursos repartidos por secciones. Además se esta
 - [Harvard CS50x: Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2024/) (I) (🇬🇧)
 - [Fast AI: Practical Deep Learning for Coders](https://course.fast.ai/) (I-A) (🇬🇧)
 
+## Artículos 📰
+- [Inteligencia Artificial e Integridad Académica en la UC](https://docencia.ia.uc.cl/integridad-academica/) (All) (🇪🇸)
+
 ### Videos 🎥
 - [Crash Course Artificial Intelligence](https://www.youtube.com/playlist?list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b) (P) (🇬🇧)
 
